@@ -88,16 +88,16 @@ a:hover,
   color: #95BEFF !important;
 }
 
-/* Unresolved/broken internal links — keep orange */
+/* Unresolved/broken internal links — soft peach-orange */
 a.is-unresolved,
 .is-unresolved,
 span.is-unresolved,
 a[href].is-unresolved {
-  color: #F2B22A !important;
-  opacity: 0.8;
+  color: #E8956D !important;
+  opacity: 0.85;
 }
 a.is-unresolved:hover {
-  color: #F69D48 !important;
+  color: #E8956D !important;
   opacity: 1;
 }
 
