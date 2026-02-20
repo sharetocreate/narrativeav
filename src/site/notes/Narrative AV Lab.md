@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/narrative-av-lab/","tags":["gardenEntry"],"created":"2026-02-20"}
+{"dg-publish":true,"permalink":"/narrative-av-lab/","tags":["gardenEntry"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/the-practice/05-connection/my-blogs/a-blog-on-projection/","created":"2025-10-28"}
+{"dg-publish":true,"permalink":"/efforts/the-practice/05-connection/my-blogs/a-blog-on-projection/"}
 ---
 
 

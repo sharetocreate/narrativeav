@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/maps/workflows/deprojection-integration-practice/"}
 ---
 
+
 <div class="nav-callout"><span></span><details><summary>🗺️ Navigation</summary><div><span>⬆️ </span><strong>Area: </strong><a class="internal-link" data-href="Efforts/AOE/! THE PRACTICE.md" href="Efforts/AOE/! THE PRACTICE.md">! THE PRACTICE.md</a></div><div><span>🗺️ </span><strong>Map: </strong><a class="internal-link" data-href="Atlas/Maps/Archetypes.md" href="Atlas/Maps/Archetypes.md">Archetypes.md</a></div><div><span>🎯 </span><strong>Effort: </strong><a class="internal-link" data-href="Efforts/! THE PRACTICE/03. INTEGRATION/3.4. CURATING/Storyboards/Deprojection 01. Identity &amp; Isolation.md" href="Efforts/! THE PRACTICE/03. INTEGRATION/3.4. CURATING/Storyboards/Deprojection 01. Identity &amp; Isolation.md">Deprojection 01. Identity &amp; Isolation.md</a></div><div><span>↔️ </span><strong>Related: </strong><a class="internal-link" data-href="Atlas/Dots/People/@James Low.md" href="Atlas/Dots/People/@James Low.md">@James Low.md</a></div></details></div>
 
 # Header
