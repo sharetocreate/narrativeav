@@ -152,7 +152,18 @@ nav.toc a,
 }
 
 /* =============================================
-   Hide site header
+   Sidebar site title — single line
+   ============================================= */
+nav.filetree-sidebar h1 {
+  white-space: nowrap !important;
+  text-align: left !important;
+  font-size: 1.2em !important;
+  color: #C84040 !important;
+  font-family: 'Source Serif Pro', serif !important;
+}
+
+/* =============================================
+   Hide site header nav bar
    ============================================= */
 header, .site-header, nav.navbar, .navbar {
   display: none !important;
