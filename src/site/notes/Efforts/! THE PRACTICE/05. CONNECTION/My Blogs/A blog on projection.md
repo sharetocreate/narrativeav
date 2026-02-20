@@ -27,8 +27,8 @@
 ----
 # DRAFTS
 
-*Clean sheets of paper to write into & link the iterations from here**
--
+*Clean sheets of paper to write into & link the iterations from here*
+
 
 # MAPS
 
@@ -51,9 +51,9 @@ So much of our conflicts are triggered by our unconscious human projection onto 
 
 This blog is exploring projection in 3 forms. 
 
-This written exploration, where i'm going to look at some part of my own pysche, & testing out some of the ideas, claims & insights from the more foundational arts of buddhist philosophy, western psychology & applying with curious intention to see how they actively change my own perceptual framework from different povs. 
+This written exploration, where i'm going to look at some part of my own pysche, & testing out some of the *ideas, claims & insights from the more foundationa*l arts of buddhist philosophy, western psychology & applying with curious intention to see how they actively change my own perceptual framework from different povs. 
 
-The artistic expression, where im using AV composition with Narrative structure to attempt to express a short narrative arc over 3 different styles of music, Downtempo/Orchestral, Dope/Beats, & Dynamic/Electronics. 
+The artistic expression, where im using AV composition with Narrative structure to attempt to express a **short narrative arc over 3 different styles of music,** Downtempo/Orchestral, Dope/Beats, & Dynamic/Electronics. 
 
 And a podcast which will mix a bit of both, with some other music & visual. 
 
