@@ -20,41 +20,36 @@ hr {
 }
 
 /* =============================================
-   Fix empty space from hidden header
+   Header — show for note title, hide nav inside
    ============================================= */
-header, .site-header {
-  display: none !important;
-  height: 0 !important;
-  margin: 0 !important;
+header {
+  display: block !important;
+  height: auto !important;
   padding: 0 !important;
+  margin: 0 !important;
+  background: transparent !important;
+  border: none !important;
 }
 
-main, .content, .cm-s-obsidian {
-  padding-top: 0 !important;
-  margin-top: 0 !important;
+header nav, header .site-nav, .site-header {
+  display: none !important;
 }
 
-/* =============================================
-   Note page title — black like vault
-   ============================================= */
-.note-title,
-.page-title,
-article > h1:first-child,
-.cm-s-obsidian > h1:first-of-type,
-header.note-header h1,
-h1.note-title {
+/* Note page title — black, only in header not content */
+header > h1 {
   color: #1a1a1a !important;
   font-family: 'Source Serif Pro', serif !important;
   border-bottom: none !important;
   font-size: 2em !important;
   font-weight: 700 !important;
+  display: block !important;
 }
 
 /* =============================================
    Headings — darker reds, with underline on h1 & h3
    ============================================= */
 h1 {
-  color: #A8524D !important;
+  color: #8B3A3A !important;
   font-family: 'Source Serif Pro', serif !important;
   font-size: 1.8em !important;
   font-weight: 750 !important;
@@ -189,7 +184,7 @@ nav.filetree-sidebar h1 {
   white-space: nowrap !important;
   text-align: left !important;
   font-size: 1.5em !important;
-  color: #C84040 !important;
+  color: #A8524D !important;
   font-family: 'Source Serif Pro', serif !important;
 }
 
