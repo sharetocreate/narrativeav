@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/narrative-av-lab/","tags":["gardenEntry"]}
+{"up":null,"related":["[[2026-02-18]]"],"wayfinder":null,"efforts":null,"created":"2026-02-20","collections":null,"tags":["gardenEntry"],"WIPstatus":null,"rank":null,"anchor":null,"reference":null,"dg-home":true,"dg-publish":true,"permalink":"/narrative-av-lab/","dgPassFrontmatter":true}
 ---
 
 
