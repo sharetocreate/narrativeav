@@ -87,6 +87,20 @@ a:hover,
 .markdown-preview-view a:hover {
   color: #95BEFF !important;
 }
+
+/* Unresolved/broken internal links — keep orange */
+a.is-unresolved,
+.is-unresolved,
+span.is-unresolved,
+a[href].is-unresolved {
+  color: #F2B22A !important;
+  opacity: 0.8;
+}
+a.is-unresolved:hover {
+  color: #F69D48 !important;
+  opacity: 1;
+}
+
 a.external-link,
 .markdown-preview-view a.external-link {
   color: #C688FF !important;
