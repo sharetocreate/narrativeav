@@ -157,7 +157,7 @@ nav.toc a,
 nav.filetree-sidebar h1 {
   white-space: nowrap !important;
   text-align: left !important;
-  font-size: 1.7em !important;
+  font-size: 1.6em !important;
   color: #C84040 !important;
   font-family: 'Source Serif Pro', serif !important;
 }
@@ -167,4 +167,16 @@ nav.filetree-sidebar h1 {
    ============================================= */
 header, .site-header, nav.navbar, .navbar {
   display: none !important;
+}
+
+/* =============================================
+   Style nav block of yaml navigation links
+   ============================================= */
+.nav-block {
+  border-left: 3px solid #F6C177;
+  padding: 0.6em 1em;
+  margin-bottom: 1em;
+  font-size: 0.9em;
+  background: rgba(246, 193, 119, 0.08);
+  border-radius: 0 8px 8px 0;
 }
