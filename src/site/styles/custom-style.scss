@@ -1,124 +1,104 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+Pro:wght@400;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+Pro:ital,wght@0,400;0,600;0,700;0,800;1,400&display=swap');
 
-:root {
-  --background-primary: #FFF7ED;
-  --background-secondary: #FFF7ED;
-  --color-red: #CD4848;
-  --color-orange: #F2B22A;
-  --color-yellow: #FFF531;
-  --color-green: #58AF29;
-  --color-cyan: #3BEECD;
-  --color-blue: #1B71EB;
-  --color-purple: #BB55EE;
-  --color-pink: #FF23C9;
-  --italic-color: #32946E;
-  --bold-color: #A8524D;
-  --text-highlight-bg: #F1F52A;
-  --link-color: #4192FF;
-  --link-color-hover: #95BEFF;
-  --link-external-color: #C688FF;
-  --link-external-color-hover: #CBACFA;
-  --h1-color: #E16863;
-  --h2-color: #FF8B8B;
-  --h3-color: #F69D48;
-  --h4-color: #FFAB64;
-  --h5-color: #90D47F;
-  --h6-color: #82CE70;
-  --hr-color: #FF6D3E;
-  --blockquote-border-color: #F6C177;
-  --blockquote-border-width: 5px;
-  --tag-radius: 16px;
-  --tag-border-width: 1px;
-  --radius-s: 6px;
-  --radius-m: 9px;
-  --radius-l: 12px;
+/* =============================================
+   Big Sur Base - Font Smoothing & Body
+   ============================================= */
+html, body {
+  font-family: 'Inter', -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background-color: #FFF7ED;
 }
 
-body {
-  font-family: 'Inter', sans-serif;
-  background-color: var(--background-primary);
-
-  h1 {
-    color: var(--h1-color);
-    font-family: 'Source Serif Pro', serif;
-    font-size: 1.8em;
-    font-weight: 750;
-    letter-spacing: -0.01em;
-  }
-
-  h2 {
-    color: var(--h2-color);
-    font-size: 1.4em;
-    font-weight: 500;
-  }
-
-  h3 {
-    color: var(--h3-color);
-    font-family: 'Source Serif Pro', serif;
-    font-size: 1.6em;
-    font-weight: 800;
-  }
-
-  h4 {
-    color: var(--h4-color);
-    font-size: 1.3em;
-    font-weight: 450;
-  }
-
-  h5 {
-    color: var(--h5-color);
-    font-family: 'Source Serif Pro', serif;
-    font-size: 1.3em;
-    font-weight: 750;
-  }
-
-  h6 {
-    color: var(--h6-color);
-    font-size: 1.2em;
-    font-weight: 550;
-    text-transform: none;
-  }
-
-  strong, b {
-    color: var(--bold-color);
-  }
-
-  em, i {
-    color: var(--italic-color);
-  }
-
-  mark {
-    background-color: var(--text-highlight-bg);
-  }
-
-  a {
-    color: var(--link-color);
-    text-decoration: none;
-    &:hover { color: var(--link-color-hover); }
-    &.external-link {
-      color: var(--link-external-color);
-      &:hover { color: var(--link-external-color-hover); }
-    }
-  }
-
-  hr {
-    border-color: var(--hr-color);
-    border-width: 1px;
-  }
-
-  blockquote {
-    border-left: var(--blockquote-border-width) solid var(--blockquote-border-color);
-    padding-left: 1em;
-  }
-
-  .tag, a.tag {
-    border-radius: var(--tag-radius);
-    border-width: var(--tag-border-width);
-    border-style: solid;
-  }
+p, ul, ol {
+  font-size: 18px;
+  line-height: 29px;
 }
 
-/* --- Hide site header --- */
+hr {
+  border: none;
+  border-top: 1px solid #FF6D3E;
+}
+
+/* =============================================
+   Headings — !important to beat theme defaults
+   ============================================= */
+h1 {
+  color: #E16863 !important;
+  font-family: 'Source Serif Pro', serif !important;
+  font-size: 1.8em !important;
+  font-weight: 750 !important;
+  letter-spacing: -0.01em;
+}
+h2 {
+  color: #FF8B8B !important;
+  font-family: 'Inter', sans-serif !important;
+  font-size: 1.4em !important;
+  font-weight: 500 !important;
+}
+h3 {
+  color: #F69D48 !important;
+  font-family: 'Source Serif Pro', serif !important;
+  font-size: 1.6em !important;
+  font-weight: 800 !important;
+}
+h4 {
+  color: #FFAB64 !important;
+  font-family: 'Inter', sans-serif !important;
+  font-size: 1.3em !important;
+  font-weight: 450 !important;
+}
+h5 {
+  color: #90D47F !important;
+  font-family: 'Source Serif Pro', serif !important;
+  font-size: 1.3em !important;
+  font-weight: 750 !important;
+}
+h6 {
+  color: #82CE70 !important;
+  font-family: 'Inter', sans-serif !important;
+  font-size: 1.2em !important;
+  font-weight: 550 !important;
+  text-transform: none !important;
+}
+
+/* =============================================
+   Text Styles
+   ============================================= */
+strong, b { color: #A8524D; }
+em, i     { color: #32946E; }
+mark      { background-color: #F1F52A; }
+
+/* =============================================
+   Links
+   ============================================= */
+a {
+  color: #4192FF;
+  text-decoration: none;
+}
+a:hover { color: #95BEFF; }
+a.external-link { color: #C688FF; }
+a.external-link:hover { color: #CBACFA; }
+
+/* =============================================
+   Blockquote
+   ============================================= */
+blockquote {
+  border-left: 5px solid #F6C177;
+  padding-left: 1em;
+}
+
+/* =============================================
+   Tags
+   ============================================= */
+.tag, a.tag {
+  border-radius: 16px;
+  border-width: 1px;
+  border-style: solid;
+}
+
+/* =============================================
+   Hide site header
+   ============================================= */
 header, .site-header, nav.navbar, .navbar {
   display: none !important;
 }
