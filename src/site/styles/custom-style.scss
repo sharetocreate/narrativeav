@@ -20,15 +20,46 @@ hr {
 }
 
 /* =============================================
+   Fix empty space from hidden header
+   ============================================= */
+header, .site-header {
+  display: none !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+main, .content, .cm-s-obsidian {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+/* =============================================
+   Note page title — black like vault
+   ============================================= */
+.note-title,
+.page-title,
+article > h1:first-child,
+.cm-s-obsidian > h1:first-of-type,
+header.note-header h1,
+h1.note-title {
+  color: #1a1a1a !important;
+  font-family: 'Source Serif Pro', serif !important;
+  border-bottom: none !important;
+  font-size: 2em !important;
+  font-weight: 700 !important;
+}
+
+/* =============================================
    Headings — darker reds, with underline on h1 & h3
    ============================================= */
 h1 {
-  color: #C84040 !important;
+  color: #A8524D !important;
   font-family: 'Source Serif Pro', serif !important;
   font-size: 1.8em !important;
   font-weight: 750 !important;
   letter-spacing: -0.01em;
-  border-bottom: 2px solid #C84040 !important;
+  border-bottom: 2px solid #8B3A3A !important;
   padding-bottom: 0.2em;
 }
 h2 {
@@ -179,11 +210,12 @@ nav.filetree-sidebar h1 {
 }
 
 .nav-callout details > summary {
-  display: block;
+  display: block !important;
   cursor: pointer;
   font-weight: 600;
   color: #C84040;
-  list-style: none;
+  list-style: none !important;
+  user-select: none;
 }
 
 .nav-callout details > summary::-webkit-details-marker {
