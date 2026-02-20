@@ -3,6 +3,90 @@
 ---
 
 
+> [!multi-column]
+>  | Quotes                                                                                                                                                                                                                                                                                                                                   |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | 💬 [[Atlas/Dots/Quotes/We may not be responsible for the way the world creates our mind, but we can learn to take responsibility for the mind with which we create our world\|We may not be responsible for the way the world creates our mind, but we can learn to take responsibility for the mind with which we create our world]] |
+> | 💬 [[Atlas/Dots/Quotes/Now I know my beast and I know how to manage it. It's like living with a 400 pound orangutan that wants to kill me.\|Now I know my beast and I know how to manage it. It's like living with a 400 pound orangutan that wants to kill me.]]                                                                     |
+> | 💬 [[Atlas/Dots/Quotes/The world does not need your perfection - it needs your presence, your unborrowed essence...\|The world does not need your perfection - it needs your presence, your unborrowed essence...]]                                                                                                                   |
+> | 💬 [[Atlas/Dots/Quotes/Thom Yorke On Climate Change\|Thom Yorke On Climate Change]]                                                                                                                                                                                                                                                   |
+> 
+{ .block-language-dataview}
+>  | Things                                                                                                                                                                                         |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | 🧩 [[Atlas/Dots/Things/Your Four Sensemaking Archetypes\|Your Four Sensemaking Archetypes]]                                                                                                 |
+> | 🧩 [[Atlas/Dots/Things/Complexity (defn)\|Complexity (defn)]]                                                                                                                               |
+> | 🧩 [[Atlas/Dots/Things/Ideaverse Pro - Release Notes\|Ideaverse Pro - Release Notes]]                                                                                                       |
+> | 🧩 [[Atlas/Dots/Things/Guiding assumptions for linked notes\|Guiding assumptions for linked notes]]                                                                                         |
+> | 🧩 [[Atlas/Dots/Things/ACE - The Universal Mental Model for Knowledge Management\|ACE - The Universal Mental Model for Knowledge Management]]                                               |
+> | 🧩 [[Atlas/Dots/Things/Hormesis\|Hormesis]]                                                                                                                                                 |
+> | 🧩 [[Atlas/Dots/Things/Habits MOC - Collide\|Habits MOC - Collide]]                                                                                                                         |
+> | 🧩 [[Atlas/Dots/Things/Architect & Gardener\|Architect & Gardener]]                                                                                                                         |
+> | 🧩 [[Atlas/Dots/Things/Guiding Values of PKM\|Guiding Values of PKM]]                                                                                                                       |
+> | 🧩 [[Atlas/Dots/Things/Idea Emergence (defn)\|Idea Emergence (defn)]]                                                                                                                       |
+> | 🧩 [[Atlas/Dots/Things/Collective Intelligence\|Collective Intelligence]]                                                                                                                   |
+> | 🧩 [[Atlas/Dots/Things/10 Takeaways from prominent voices on the concepts of shadow work and projection\|10 Takeaways from prominent voices on the concepts of shadow work and projection]] |
+> | 🧩 [[Atlas/Dots/Things/Social media and identity\|Social media and identity]]                                                                                                               |
+> | 🧩 [[Atlas/Dots/Things/300 Human Emotions\|300 Human Emotions]]                                                                                                                             |
+> 
+{ .block-language-dataview}
+> 
+>  | People                                                                             |
+> | ---------------------------------------------------------------------------------- |
+> | 👤 [[Atlas/Dots/People/@Seth Godin\|@Seth Godin]]                               |
+> | 👤 [[Atlas/Dots/People/@Mike Mchernan\|@Mike Mchernan]]                         |
+> | 👤 [[Atlas/Dots/People/@Liam D'Authreau\|@Liam D'Authreau]]                     |
+> | 👤 [[Atlas/Dots/People/@Jay Bond\|@Jay Bond]]                                   |
+> | 👤 [[Atlas/Dots/People/@Liz Perryer\|@Liz Perryer]]                             |
+> | 👤 [[Atlas/Dots/People/@Tony Coleman\|@Tony Coleman]]                           |
+> | 👤 [[Atlas/Dots/People/@Rich Kendall\|@Rich Kendall]]                           |
+> | 👤 [[Atlas/Dots/People/@Dad\|@Dad]]                                             |
+> | 👤 [[Atlas/Dots/People/@Joseph Goldstein\|@Joseph Goldstein]]                   |
+> | 👤 [[Atlas/Dots/People/@James Low\|@James Low]]                                 |
+> | 👤 [[Atlas/Dots/People/@Sangharakshita\|@Sangharakshita]]                       |
+> | 👤 [[Atlas/Dots/People/People Template\|People Template]]                       |
+> | 👤 [[Atlas/Dots/People/@Carl Sagan\|@Carl Sagan]]                               |
+> | 👤 [[Atlas/Dots/People/@Gabor Mate\|@Gabor Mate]]                               |
+> | 👤 [[Atlas/Dots/People/@Rob Burbea\|@Rob Burbea]]                               |
+> | 👤 [[Atlas/Dots/People/@John O Donahue\|@John O Donahue]]                       |
+> | 👤 [[Atlas/Dots/People/@Ned Rush\|@Ned Rush]]                                   |
+> | 👤 [[Atlas/Dots/People/@William Burroughs\|@William Burroughs]]                 |
+> | 👤 [[Atlas/Dots/People/@Symphonic Distribution\|@Symphonic Distribution]]       |
+> | 👤 [[Atlas/Dots/People/@Milo Dog\|@Milo Dog]]                                   |
+> | 👤 [[Atlas/Dots/People/@Olly Trafford\|@Olly Trafford]]                         |
+> | 👤 [[Atlas/Dots/People/@Michael G Wagner\|@Michael G Wagner]]                   |
+> | 👤 [[Atlas/Dots/People/@Ali Mack\|@Ali Mack]]                                   |
+> | 👤 [[Atlas/Dots/People/@Elin Morgan\|@Elin Morgan]]                             |
+> | 👤 [[Atlas/Dots/People/@Jack Kornfield\|@Jack Kornfield]]                       |
+> | 👤 [[Atlas/Dots/People/@Aaron Pritchard\|@Aaron Pritchard]]                     |
+> | 👤 [[Atlas/Dots/People/@Ninja Tune\|@Ninja Tune]]                               |
+> | 👤 [[Atlas/Dots/People/@Light Surgeons\|@Light Surgeons]]                       |
+> | 👤 [[Atlas/Dots/People/@Max Cooper\|@Max Cooper]]                               |
+> | 👤 [[Atlas/Dots/People/@Djrum\|@Djrum]]                                         |
+> | 👤 [[Atlas/Dots/People/@John Vervaeke\|@John Vervaeke]]                         |
+> | 👤 [[Atlas/Dots/People/@Marcus Parsons\|@Marcus Parsons]]                       |
+> | 👤 [[Atlas/Dots/People/@Mom\|@Mom]]                                             |
+> | 👤 [[Atlas/Dots/People/@Carl Jung\|@Carl Jung]]                                 |
+> | 👤 [[Atlas/Dots/People/@James Clear\|@James Clear]]                             |
+> | 👤 [[Atlas/Dots/People/@Trey Reck\|@Trey Reck]]                                 |
+> | 👤 [[Atlas/Dots/People/@James Hollis\|@James Hollis]]                           |
+> | 👤 [[Atlas/Dots/People/@Greg Dodgy\|@Greg Dodgy]]                               |
+> | 👤 [[Atlas/Dots/People/@Scott Jeffrey\|@Scott Jeffrey]]                         |
+> | 👤 [[Atlas/Dots/People/@From Sergio\|@From Sergio]]                             |
+> | 👤 [[Atlas/Dots/People/Contact Databases\|Contact Databases]]                   |
+> | 👤 [[Atlas/Dots/People/@Rich Batsford Sarvadasian\|@Rich Batsford Sarvadasian]] |
+> | 👤 [[Atlas/Dots/People/@Sangharuchi\|@Sangharuchi]]                             |
+> 
+{ .block-language-dataview}
+> 
+>  | Concepts                                                                                                                                     |
+> | -------------------------------------------------------------------------------------------------------------------------------------------- |
+> | 📣 [[Atlas/Dots/Concepts/The three lakshanas aka marks of conditioned existence\|The three lakshanas aka marks of conditioned existence]] |
+> | 📣 [[Atlas/Dots/Concepts/Dukkha\|Dukkha]]                                                                                                 |
+> 
+{ .block-language-dataview}
+
+
 # AIM
 
 *What specific aspect are you exploring & aiming to evolve*
