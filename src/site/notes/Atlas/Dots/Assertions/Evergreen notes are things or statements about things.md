@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dots/assertions/evergreen-notes-are-things-or-statements-about-things/"}
+{"up":["[[Evergreen notes]]"],"related":[],"wayfinder":null,"efforts":null,"created":"2025-11-28","collections":["[[DOTS.base#Assertions|Assertions]]"],"tags":[],"WIPstatus":null,"rank":null,"anchor":null,"reference":null,"dg-publish":true,"permalink":"/atlas/dots/assertions/evergreen-notes-are-things-or-statements-about-things/","dgPassFrontmatter":true}
 ---
 
 
