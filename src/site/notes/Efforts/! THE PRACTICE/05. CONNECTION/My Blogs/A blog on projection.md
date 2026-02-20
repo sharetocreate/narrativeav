@@ -9,9 +9,9 @@
 
 - Stepping out of comfort to voluntarily face a dragon & transcend the Innocent Archetype
 
-  EXPRESSION
+# EXPRESSION 
 
-#### MY CURRENT NARRATIVE
+### MY CURRENT NARRATIVE
 - 
 ## IMPORTANCE TO ME & RELEVANCE TO THE THEME
 - 
@@ -61,7 +61,7 @@ My aim is to explore different aspects of our human condition, through the lense
 
 This is far and away from any notion of self help, and there will be no advice or blanket motivational messages. I believe that its relatively pointless knowing something on a conceptual level. Knowing that everything is impermanent for example doesn't change much aside from maybe a few choices. But actively looking through the lense of impermanence, and seeing how that changes my perception of the world and it's perception of me, gives me something of more substance to build or explore upon. [[Atlas/Dots/People/@Rob Burbea\|@Rob Burbea]] is to thank for that way of looking, and his book which i've recently started is going to feature in some of the explorations no doubt. 
 
-I also want with the AV side, to create compositions that i can refer to that either keep me on track, or help with this exploration. I've had this driving notion, some may say obsession, for well over a decade, and only recently find myself able to imagine sketches, scenes & storyboards that aren't really obvious or arbitrary. It has resulted in creating what seem like effective av composition & personal integration frameworks that i've always hoped might be useful to other people. Especially the fellow neurodiverse creatives who may have similar aspirations, and they are something i can try out with this blog & creative output, but again we'll see. 
+I[[ also want with the AV side\| also want with the AV side]], to create compositions that i can refer to that either keep me on track, or help with this exploration. I've had this driving notion, some may say obsession, for well over a decade, and only recently find myself able to imagine sketches, scenes & storyboards that aren't really obvious or arbitrary. It has resulted in creating what seem like effective av composition & personal integration frameworks that i've always hoped might be useful to other people. Especially the fellow neurodiverse creatives who may have similar aspirations, and they are something i can try out with this blog & creative output, but again we'll see. 
 
 I've got an online platform setup as i think both sides are well suited to collaboration or some kind of community connection, but how feasible that will be to manage is another question, but the AV side i plan to document the useful approaches i learn on Narrative AV & the more Integration side with writing & AV compositions will be on this core Deprojection project. 
 
