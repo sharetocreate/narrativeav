@@ -3,6 +3,14 @@ body {
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
+    font-family: "Source Sans Pro", -apple-system, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    --background-primary: #ffffff;
+    --background-secondary: #f2f3f5;
+    --text-accent: #ef5d5d;
+    --text-accent-hover: #e66a6a;
+    --text-normal: #2e3338;
+    --text-muted: #888888;
     //  background-color: white;
     //  .content {
     //   font-size: 14px;
