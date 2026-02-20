@@ -157,26 +157,52 @@ nav.toc a,
 nav.filetree-sidebar h1 {
   white-space: nowrap !important;
   text-align: left !important;
-  font-size: 1.6em !important;
+  font-size: 1.5em !important;
   color: #C84040 !important;
   font-family: 'Source Serif Pro', serif !important;
 }
 
 /* =============================================
-   Hide site header nav bar
+   Navigation callout — foldable details block
    ============================================= */
-header, .site-header, nav.navbar, .navbar {
-  display: none !important;
-}
-
-/* =============================================
-   Style nav block of yaml navigation links
-   ============================================= */
-.nav-block {
+.nav-callout {
   border-left: 3px solid #F6C177;
   padding: 0.6em 1em;
   margin-bottom: 1em;
   font-size: 0.9em;
   background: rgba(246, 193, 119, 0.08);
   border-radius: 0 8px 8px 0;
+}
+
+.nav-callout details {
+  margin: 0;
+}
+
+.nav-callout details > summary {
+  display: block;
+  cursor: pointer;
+  font-weight: 600;
+  color: #C84040;
+  list-style: none;
+}
+
+.nav-callout details > summary::-webkit-details-marker {
+  display: none;
+}
+
+.nav-callout details > summary::before {
+  content: "▶ ";
+  font-size: 0.8em;
+}
+
+.nav-callout details[open] > summary::before {
+  content: "▼ ";
+}
+
+.nav-callout details[open] > summary {
+  margin-bottom: 0.5em;
+}
+
+.nav-callout div {
+  padding: 0.15em 0;
 }
